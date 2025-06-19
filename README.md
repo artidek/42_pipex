@@ -1,6 +1,6 @@
 # 42_pipex
 
-Hi! Thhis is my implementation of the **pipex** project for the 42 school curriculum.
+Hi! This is my implementation of the **pipex** project for the 42 school curriculum.
 
 This project is all about understanding and recreating the core logic behind Unix pipes (`|`)—that is, the ability to chain commands together so that the output of one becomes the input of the next, just like in the shell. The project also covers handling file redirections, argument parsing (including quoted and escaped arguments), and careful manual memory management in C.
 
