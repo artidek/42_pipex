@@ -95,7 +95,7 @@ Then run, for example:
 
 ## Author
 
-- **aobshatk**
+- **Artem Obshatko**
 
 ---
 
